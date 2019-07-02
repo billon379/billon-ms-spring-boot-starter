@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+fun.billon.ms.spring.boot.autoconfig.CacheAnnotationAutoConfiguration,\
+fun.billon.ms.spring.boot.autoconfig.SleuthResponseBodyAdviceAutoConfiguration,\
+fun.billon.ms.spring.boot.autoconfig.TokenResponseBodyAdviceAutoConfiguration,\
+fun.billon.ms.spring.boot.autoconfig.GlobalErrorControllerAutoConfiguration,\
+fun.billon.ms.spring.boot.autoconfig.WebMvcAutoConfiguration
